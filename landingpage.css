@@ -1,0 +1,11 @@
+body{
+	background-image: radial-gradient(circle, #d7abf4, #d9bdf6, #ddcef5, #e4dff2, #eeeeee);
+}
+
+.false{
+	padding-left: 200px;
+}
+.carousel-inner {
+  width:850px;
+  height:600px;
+}

@@ -1,0 +1,22 @@
+body{
+	background-image: radial-gradient(circle, #d7abf4, #d9bdf6, #ddcef5, #e4dff2, #eeeeee);
+}
+.false{
+	padding-top: 100px;
+}
+.button{
+	background-color: #f44336;
+	padding: 10px 24px;
+	border-radius: 4px;
+	font-size: 16px;
+	border-color: #f44336;
+} 
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #f44336; 
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
