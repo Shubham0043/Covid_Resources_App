@@ -2,10 +2,20 @@ body{
 	background-image: radial-gradient(circle, #d7abf4, #d9bdf6, #ddcef5, #e4dff2, #eeeeee);
 }
 
+.container{
+  width: 400px;
+  height: auto;
+}
+
 .false{
 	padding-left: 200px;
 }
-.carousel-inner {
-  width:850px;
-  height:600px;
+
+.false_2{
+	padding-top: 100px;	
 }
+
+.false_1{
+	padding-top: 200px;
+}
+
